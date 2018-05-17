@@ -1,0 +1,26 @@
+# /etc/conf.d/krtd: config file for /etc/init.d/krtd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/krt/krt.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/krtd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/krtd.pid"
+
+# Where to write krtd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/krtd"
+
+# User and group to own krtd process
+#BITCOIND_USER="krt"
+#BITCOIND_GROUP="krt"
+
+# Path to krtd executable
+#BITCOIND_BIN="/usr/bin/krtd"
+
+# Nice value to run krtd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

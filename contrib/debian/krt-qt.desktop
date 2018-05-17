@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Krt
+Comment=Krt P2P Cryptocurrency
+Comment[fr]=Krt, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Krt, eşten eşe kriptografik sanal para birimi
+Exec=krt-qt %u
+Terminal=false
+Type=Application
+Icon=krt128
+MimeType=x-scheme-handler/krt;
+Categories=Office;Finance;
