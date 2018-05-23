@@ -1,3 +1,7 @@
+
+
+# Kreita: A New Word in Freedom of Speech. Whitepaper
+
 **1 INTRODUCTION**
 
 **1.1 Why blockchain?**
@@ -140,7 +144,7 @@ By collateralizing 10 000 Kreita coins, you can set up a masternode and be able 
 
 A standard-day payment is as follows:
 
-![day payment](//167.99.239.25/extimg/Formula1.png)
+![day payment](Formula1.png)
 
 where:
 
@@ -156,7 +160,7 @@ where:
 
 ROI (Return on Investment) for running a masternode can be calculated as:
 
-![day payment](//167.99.239.25/extimg/Formula2.png)
+![day payment](Formula2.png)
 
 with the same variables.
 
